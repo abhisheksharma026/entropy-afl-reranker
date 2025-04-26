@@ -58,3 +58,6 @@ venv.bak/
 .Trashes
 .VolumeIcon.icns
 com.apple.timemachine.donotpresent
+
+# data files
+data/
