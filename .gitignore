@@ -60,4 +60,4 @@ venv.bak/
 com.apple.timemachine.donotpresent
 
 # data files
-data/
+data/*.csv
