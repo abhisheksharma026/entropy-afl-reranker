@@ -50,3 +50,17 @@ data/
 ### Run the pipeline
 poetry run entropy-reranker
 
+---
+If you use this work, please cite it as: 
+
+```
+@misc{abhishek_sharma_2025_entropy_afl_reranker,
+  author       = {Abhishek Sharma},
+  title        = {Recall-Rich, Precision Respectful:A Meta-Ensemble Paradigm of Rare Outcomes},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15288525},
+  url          = {https://doi.org/10.5281/zenodo.15288525}
+}
+```
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15288525.svg)](https://doi.org/10.5281/zenodo.15288525)
